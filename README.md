@@ -1,2 +1,6 @@
 # Site Axit
-[Текст ссылки]( https://iliazhukovskii.github.io/AxitProject/ "Launch a website")
+[Axit]( https://iliazhukovskii.github.io/AxitProject/ "Launch a website")
+
+- SCSS
+- jQuery
+- adaptive
