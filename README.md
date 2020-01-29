@@ -1,2 +1,2 @@
-# AxitProject
-[Текст ссылки]( https://iliazhukovskii.github.io/AxitProject/ "Описание")
+# Site Axit
+[Текст ссылки]( https://iliazhukovskii.github.io/AxitProject/ "Launch a website")
